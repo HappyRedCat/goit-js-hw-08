@@ -7,11 +7,5 @@ const o = 35;
 const h = 35;
 
 console.log(a + b + c + b);
-console.log(a + b - u);
-console.log(a + b + o);
-console.log(a + b);
-console.log(a + b);
-console.log(a + b);
-console.log(a + b);
-console.log(a + b);
+
 console.log(a + b);
