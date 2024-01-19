@@ -9,3 +9,37 @@ const h = 35;
 console.log(a + b + c + b);
 
 console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+console.log(a + b + c + b);
+
+console.log(a + b);
+
+console.log(a + b + c + b);
+
+console.log(a + b);
